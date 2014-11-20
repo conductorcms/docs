@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Extending the User Model"
-category: ref
+category: tut
 date: 2014-11-20 15:06:34
+order: 10
 ---
 
 You can add methods to the user model by adding handlers. Your handler will have access to the User model in ```$this->user``` 

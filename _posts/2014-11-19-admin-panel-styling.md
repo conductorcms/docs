@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Admin Panel Styling"
-category: dive
+category: ref
 date: 2014-11-19 15:03:29
 ---
 
